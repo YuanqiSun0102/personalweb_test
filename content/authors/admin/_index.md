@@ -58,8 +58,8 @@ work:
     company_name: UW Seattle
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-03-20
+    date_end: 2023-06-10
     summary: |2-
       Responsibilities include:
       - Replicated machine-learning models from a research paper using Python, focusing on forecasting bankruptcy using financial indicators.
@@ -68,8 +68,8 @@ work:
     company_name: Washington Experimental Mathematics Lab UW Seattle
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-03-20
+    date_end: 2023-03-20
     summary: |2-
       Responsibilities include:
       - Developed a categorized cycle structure resulting from fixed-degree linear and monomial permutation polynomials.
@@ -170,7 +170,7 @@ work:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-About Me \\
+About Me: 
 I am currently a Master student in Operations Research with a specialization of Financial Engineering at Cornell University. Before coming to Cornell, I completed my BSc in Mathematics and BSc in Computational Finance and Risk Management at the University of Washington. My passion lies in using quantitative methods to solve complex problems, and I have a strong foundation in statistical analysis, machine learning, and financial risk management with several practical experiences. 
-In my spare time, I love reading, solving jigsaw puzzles, traveling, and gaming. \\
+In my spare time, I love reading, solving jigsaw puzzles, traveling, and gaming. 
 Contact me at: ys2274[at]cornell[dot]edu
