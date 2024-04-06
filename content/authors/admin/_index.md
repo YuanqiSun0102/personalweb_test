@@ -46,8 +46,7 @@ education:
     date_end: 2024-12-15
     summary: |
       Courses included: Financial Risk Management, Machine Learning, Optimization, Big Data Technologies, Time Series Analysis.
-    
-  - area: BSc Mathematics & BSc Computational Finance and Risk Management
+  - area: BSc Mathematics; BSc Computational Finance and Risk Management
     institution: University of Washington
     date_start: 2019-09-30
     date_end: 2023-06-10
@@ -55,22 +54,23 @@ education:
       Magna Cum Laude
       Courses included: Stochastic Calculus, Numerical Analysis, Modern Algebra, Combinatorics. 
 work:
-  - position: Bankruptcy Prediction Using Machine Learning
-    company_name: UW Seattle
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2023-03-21
-    date_end: 2023-06-10
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
-     Responsibilities include:
-      - Replicated machine-learning models from a research paper using Python, focusing on forecasting bankruptcy using financial indicators.
-      - Deployed referenced Random Forest and Support Vector Machine models for bankruptcy prediction, conducting a comparative analysis of their performances through AUC scores. Achieved a notably high AUC score, consistent with the referenced research, particularly with the Random Forest method on the test set.
-  - position: Research on Permutation Polynomial
-    company_name: Washington Experimental Mathematics Lab, UW Seattle
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2022-03-20
-    date_end: 2023-03-20
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
