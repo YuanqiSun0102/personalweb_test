@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yuanqi Sun
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yuanqi
+last_name: Sun
 
 # Status emoji
 # status:
@@ -70,7 +70,7 @@ work:
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Developed a categorized cycle structure resulting from fixed-degree linear and monomial permutation polynomials.
       - Formulated theorems to articulate cycle structures for designated linear and monomial permutation polynomials,incorporating algorithms to facilitate calculations; constructed MATLAB functions to implement these algorithms.
@@ -80,7 +80,7 @@ work:
     company_logo: ''
     date_start: 2021-09-27
     date_end: 2021-11-30
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Contributed to the establishment of the company's industry database by gathering historical sales data from the top 6 electric vehicle companies in China. Employed Excel and Python for effective data management and visualization.
       - Collaborated with senior researchers to enhance the company's revenue and net profit forecasting models through the application of time series analysis and regression methods using the R programming language.
@@ -91,7 +91,7 @@ work:
     company_logo: ''
     date_start: 2021-07-01
     date_end: 2021-09-25
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Generated in-depth industry analysis reports that guided strategic investment decisions for the expansion of Beijing's metro system. Provided valuable insights into market trends, competitive dynamics, and growth forecasts.
       - Contributed to develop an annual pricing model for 10 portfolio companies, enabling data-driven assessments of their financial performance and growth prospects.
