@@ -54,28 +54,26 @@ education:
       Magna Cum Laude
       Courses included: Stochastic Calculus, Numerical Analysis, Modern Algebra, Combinatorics. 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Bankruptcy Prediction Using Machine Learning
+    company_name: UW Seattle
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Replicated machine-learning models from a research paper using Python, focusing on forecasting bankruptcy using financial indicators.
+      - Deployed referenced Random Forest and Support Vector Machine models for bankruptcy prediction, conducting a comparative analysis of their performances through AUC scores. Achieved a notably high AUC score, consistent with the referenced research, particularly with the Random Forest method on the test set.
+  - position: Research On Permutation Polynomial
+    company_name: Washington Experimental Mathematics Lab UW Seattle
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed a categorized cycle structure resulting from fixed-degree linear and monomial permutation polynomials.
+      - Formulated theorems to articulate cycle structures for designated linear and monomial permutation polynomials,incorporating algorithms to facilitate calculations; constructed MATLAB functions to implement these algorithms.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
