@@ -47,7 +47,7 @@ education:
     summary: |
       Courses included: Financial Risk Management, Machine Learning, Optimization, Big Data Technologies, Time Series Analysis.
     
-  - area: BSc Mathematics; BSc Computational Finance and Risk Management
+  - area: BSc Mathematics & BSc Computational Finance and Risk Management
     institution: University of Washington
     date_start: 2019-09-30
     date_end: 2023-06-10
@@ -63,8 +63,8 @@ work:
     date_end: 2023-06-10
     summary: |2-
      Responsibilities include:
-      • Replicated machine-learning models from a research paper using Python, focusing on forecasting bankruptcy using financial indicators.
-      • Deployed referenced Random Forest and Support Vector Machine models for bankruptcy prediction, conducting a comparative analysis of their performances through AUC scores. Achieved a notably high AUC score, consistent with the referenced research, particularly with the Random Forest method on the test set.
+      - Replicated machine-learning models from a research paper using Python, focusing on forecasting bankruptcy using financial indicators.
+      - Deployed referenced Random Forest and Support Vector Machine models for bankruptcy prediction, conducting a comparative analysis of their performances through AUC scores. Achieved a notably high AUC score, consistent with the referenced research, particularly with the Random Forest method on the test set.
   - position: Research on Permutation Polynomial
     company_name: Washington Experimental Mathematics Lab, UW Seattle
     company_url: ''
@@ -73,8 +73,9 @@ work:
     date_end: 2023-03-20
     summary: |
       Responsibilities include:
-      • Developed a categorized cycle structure resulting from fixed-degree linear and monomial permutation polynomials.
-      • Formulated theorems to articulate cycle structures for designated linear and monomial permutation polynomials,incorporating algorithms to facilitate calculations; constructed MATLAB functions to implement these algorithms.
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
