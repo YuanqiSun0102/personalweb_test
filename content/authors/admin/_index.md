@@ -40,60 +40,41 @@ superuser: true
 #     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Financial Engineering
+    institution: Cornell University
+    date_start: 2023-08-21
+    date_end: 2024-12-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Courses included: Financial Risk Management, Machine Learning, Optimization, Big Data Technologies, Time Series Analysis.
+    
+  - area: BSc Mathematics; BSc Computational Finance and Risk Management
+    institution: University of Washington
+    date_start: 2019-09-30
+    date_end: 2023-06-10
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Magna Cum Laude
+      Courses included: Stochastic Calculus, Numerical Analysis, Modern Algebra, Combinatorics. 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Bankruptcy Prediction Using Machine Learning
+    company_name: UW Seattle
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-03-21
+    date_end: 2023-06-10
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+     Responsibilities include:
+      • Replicated machine-learning models from a research paper using Python, focusing on forecasting bankruptcy using financial indicators.
+      • Deployed referenced Random Forest and Support Vector Machine models for bankruptcy prediction, conducting a comparative analysis of their performances through AUC scores. Achieved a notably high AUC score, consistent with the referenced research, particularly with the Random Forest method on the test set.
+  - position: Research on Permutation Polynomial
+    company_name: Washington Experimental Mathematics Lab, UW Seattle
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-03-20
+    date_end: 2023-03-20
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      • Developed a categorized cycle structure resulting from fixed-degree linear and monomial permutation polynomials.
+      • Formulated theorems to articulate cycle structures for designated linear and monomial permutation polynomials,incorporating algorithms to facilitate calculations; constructed MATLAB functions to implement these algorithms.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
